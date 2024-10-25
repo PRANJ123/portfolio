@@ -22,8 +22,8 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <body
         className={`antialiased min-h-screen dark:text-slate-50 ${inter.className}`}
       >
-        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
-          <div className="max-w-7xl mx-auto py-10 px-4 ">
+        <ThemeProvider attribute="class" defaultTheme="dark">
+          <div className="max-w-7xl mx-auto py-4 sm:py-10 sm:px-4 ">
             <header className="absolute left-10 z-10">
               <div className="flex items-center justify-between">
                 {/* <ModeToggle /> */}
