@@ -16,7 +16,7 @@ export function Hero() {
         }}
         className="sm:-mt-8 bg-gradient-to-br from-slate-300 to-slate-500 sm:py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
       >
-       Eight percent of success<br />is showing up
+       The journey of a thousand miles<br /> begins with one step.
       </motion.h1>
     </LampContainer>
   );
