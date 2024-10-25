@@ -14,7 +14,7 @@ const About = () => {
           width={500}
           src="/profile.jpg"
           alt="Pranjal"
-          className="object-cover mx-auto h-96 w-96"
+          className="object-cover mx-auto h-96 w-96 rounded-full"
         />
   
       </div>
