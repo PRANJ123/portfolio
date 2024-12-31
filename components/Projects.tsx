@@ -7,7 +7,7 @@ const projects = [
     icon: "/kitab.png",
     description:"Developed a full-stack bookstore using React, Node.js, Express.js, and MongoDB.Implemented features such as a user-friendly shopping cart, cash-on-delivery checkout, and a secure admin dashboard for managing inventory. Integrated Tailwind CSS for styling, Redux for state management, Mongoose for database operations.",
    
-    
+    liveLink:"https://kitab-5kprsd3y7-pranjal-bajpais-projects.vercel.app/",
     githubLink: "https://github.com/PRANJ123/kitab",
   },
   {
